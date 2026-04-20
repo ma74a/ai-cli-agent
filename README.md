@@ -22,7 +22,7 @@ The agent runs in a loop, making multiple function calls as needed to fulfill yo
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/ai-cli-agent.git
+git clone https://github.com/ma74a/ai-cli-agent.git
 cd ai-cli-agent
 uv sync
 ```
